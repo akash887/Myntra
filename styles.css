@@ -142,7 +142,11 @@ margin:0 5% 0 5% ;
   {
     width: 50%;
       position: relative;
-      left:145px;
+      left:40%;
+  }
+  .card-col
+  {
+    margin-top:5px;
   }
 
   .cta
