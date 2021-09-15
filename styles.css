@@ -136,10 +136,24 @@ margin:0 5% 0 5% ;
 {
   text-align: center;
 }
-.icon
-{
-position: relative;
-top: 70px;
-right: 180px;
 
+@media (min-width:500px) {
+  .kard
+  {
+    width: 50%;
+      position: relative;
+      left:145px;
+  }
+
+  .cta
+  {
+    margin-top: 10px;
+  }
+  .lehenga
+  {
+    position: relative;
+    right: 30%;
+    top: 10px;
+    padding-bottom: 10px;
+  }
 }
